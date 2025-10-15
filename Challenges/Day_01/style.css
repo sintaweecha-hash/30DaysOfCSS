@@ -1,9 +1,9 @@
 body{
-  background-color: #F398BE;
+  background-color: rgb(10, 150, 92);
 }
 
 .box{
-  background-color: whitesmoke;
+  background-color: black;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -13,11 +13,11 @@ body{
 }
 
 .search{
-  color: #9E314B;
+  color: red;
   background-color: #F398BE;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  border-radius: 70%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -30,7 +30,7 @@ body{
   background: none;
   float: left;
   padding: 0;
-  font-size: 15px;
+  font-size: 30px;
   transition: 0.4s;
   line-height: 50px;
   width: 0;
