@@ -3,7 +3,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(216, 170, 170, 0.795);
+  background:coral
 }
 
 ul {
@@ -36,23 +36,23 @@ ul li:hover span {
 }
 
 ul li:nth-child(1) span {
-  background: #4064AC;
+  background: #302F2F;
 }
 
 ul li:nth-child(2) span {
-background: #CC456C;
+background: #c66bc9
 }
 
 ul li:nth-child(3) span {
-  background: #61CD65;
-}
-
-ul li:nth-child(4) span {
   background: #0270AD;
 }
 
+ul li:nth-child(4) span {
+  background: #979797;
+}
+
 ul li:nth-child(5) span {
-  background: #302F2F;
+  background: #bbc43c;
 }
 
 ul li:hover span:nth-child(5) {
